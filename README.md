@@ -50,7 +50,7 @@
 
 ---
 
-### 🤝 Open Source Contributions
+### 🤝 Contributions
 
 | Repository | Description | Role |
 |------------|-------------|------|
