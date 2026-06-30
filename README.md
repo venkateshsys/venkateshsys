@@ -30,11 +30,17 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkateshsys&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=venkateshsys&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshsys&layout=compact&theme=dark&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venkateshsys&theme=github_dark)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=venkateshsys&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venkateshsys&theme=github_dark&utcOffset=5.5)
+
+<!--
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venkateshsys&theme=github_dark)
+![Most Committed Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venkateshsys&theme=github_dark)
+-->
 
 ---
 
